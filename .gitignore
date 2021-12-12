@@ -130,3 +130,4 @@ dmypy.json
 
 # myself
 *.png
+.idea
